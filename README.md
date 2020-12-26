@@ -1,2 +1,2 @@
-# pract_1
-github 사용법을 익히자.
+# Creative 2
+창의2 수업 코드
